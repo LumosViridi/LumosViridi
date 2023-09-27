@@ -24,7 +24,6 @@
   - NFS CSI
 - Minecraft Server - AWS Fargate Version - I ended up tearing this down to save on cost and now run on my pi cluster
 - Minecraft Server - k3s version
-  - MySQL
   - SMB CSI
 - My Website - This is currently a basic HTML site but will be upgraded soon to a more modern version using React
   - AWS S3
