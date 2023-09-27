@@ -2,7 +2,7 @@
  
 - 🔭 I’m currently working on implementing Hashicorp Vault on my Raspberry Pi cluster!
 - 🌱 I’m currently learning Go and will be adding some fun projects in here soon!
-- 🆕 Most of what I work on is in a private GitHub org and will be moving things here as I have time. If you are curious about something 
+- 🆕 Most of what I work on is in a private GitHub org and will be moving things here as I have time. If you are curious about something that you see here just ask!
 
 ## Current Home Lab
 - 4 Rasperry Pis running k3s
