@@ -18,7 +18,7 @@
 - UpTime Kuma 
 
 ### Fun Stuff
-- Jellyfin Movie Server
+- Jellyfin Media Server
   - MySQL
   - MetalLB
   - NFS CSI
