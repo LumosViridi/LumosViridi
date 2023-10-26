@@ -37,7 +37,7 @@ I love Terraform and use it in a lot of different places
 ### Fun Stuff
 
 - [Jellyfin Media Server](https://github.com/LumosViridi/k3s-playground/tree/main/apps/jellyfin)
-- [Minecraft Server](https://github.com/LumosViridi/minecraft-on-fargate) - AWS Fargate Version - I ended up tearing this down to save on cost and now run on my pi cluster
+- Minecraft Server - AWS Fargate Version - I ended up tearing this down to save on cost and now run on my pi cluster
 - [Minecraft Server](https://github.com/LumosViridi/k3s-playground/tree/main/apps/minecraft) - Raspberry Pi Version
 - [My Website](http://ciarahatcher.com) - This is currently a basic HTML/CSS site hosted on AWS but will be upgraded soon to a more modern version using React
   - AWS S3
